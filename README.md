@@ -6,7 +6,7 @@ Tested with WINSOWS10(64bit) with OFFICE2016(32bit). It should worked at any sys
 ## How to Use
 1. Copy **MSCOMM32.OCX** to **C:\WINDOWS\SysWOW64** (If you using 32bit Windows to **C:\WINDOWS\SysWOW32** ) 
 
-2. Run CMD
+2. Run CMD(As Administrator)
 ```
 regsvr32 /u C:\WINDOWS\SysWOW64\MSCOMM32.OCX
 regsvr32 /i C:\WINDOWS\SysWOW64\MSCOMM32.OCX
@@ -20,7 +20,7 @@ enjoy!
 ## 使用方法
 1. 复制 **MSCOMM32.OCX** 到 **C:\WINDOWS\SysWOW64** (如果是32位系统就是 **C:\WINDOWS\SysWOW32** )
 
-2. 依次运行下面三条命令：
+2. 依次运行下面三条命令(以管理员身份运行)：
 ```
 regsvr32 /u C:\WINDOWS\SysWOW64\MSCOMM32.OCX
 regsvr32 /i C:\WINDOWS\SysWOW64\MSCOMM32.OCX
