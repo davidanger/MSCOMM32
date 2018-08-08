@@ -13,7 +13,7 @@ regsvr32 /i C:\WINDOWS\SysWOW64\MSCOMM32.OCX
 regsvr32 C:\WINDOWS\SysWOW64\MSCOMM32.OCX
 ```
 
-3. Double click **MSCOMM32.reg**
+3. Double click **Regedit_MSCOMM32.reg**
 
 enjoy!
 
